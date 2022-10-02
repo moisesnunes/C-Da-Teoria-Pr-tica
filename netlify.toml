@@ -25,7 +25,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "/"
+    baseUrl = "https://sensational-fenglisu-8f3e4d.netlify.app/"
     sitemapPath = "/sitemap.xml"
     ignorePeriod = 0
     providers = [
